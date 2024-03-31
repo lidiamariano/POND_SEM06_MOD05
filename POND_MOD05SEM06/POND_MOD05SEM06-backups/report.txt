@@ -1,0 +1,29 @@
+Informação: Processando o símbolo 'D1:LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm'.
+Informação: Processando o símbolo 'Q1:Package_TO_SOT_THT:TO-18-3'.
+Informação: Processando o símbolo 'R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Informação: Processando o símbolo 'R2:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Informação: Processando o símbolo 'U1:MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH'.
+D1 foi adicionado (footprint 'LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm').
+O designador de referência REF** foi trocado para D1.
+O valor D1 foi trocado de LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm para LED.
+A associação do símbolo D1 foi atualizada de  para /52e94a02-2547-49b8-a555-dac97ed27e61.
+D1 campos foram atualizados.
+O nome da folha D1 foi atualizada para 'Raiz'.
+O arquivo da folha D1 foi atualizado para 'POND_MOD05SEM06.kicad_sch'.
+Foi atualizado D1 filtros do footprint para 'LED* LED_SMD:* LED_THT:*'.
+Adiciona rede Net-(D1-A).
+D1 conectado pino 2 para Net-(D1-A).
+D1 conectado pino 1 para Net-(D1-K).
+R1 foi adicionado (footprint 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal').
+O designador de referência REF** foi trocado para R1.
+O valor R1 foi trocado de R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal para R_US.
+A associação do símbolo R1 foi atualizada de  para /9c4b1c6a-7a72-4465-a1d1-31a6ebc98fc0.
+R1 campos foram atualizados.
+O nome da folha R1 foi atualizada para 'Raiz'.
+O arquivo da folha R1 foi atualizado para 'POND_MOD05SEM06.kicad_sch'.
+Foi atualizado R1 filtros do footprint para 'R_*'.
+R1 conectado pino 1 para VCC.
+R1 conectado pino 2 para Net-(D1-A).
+
+
+Informação: Total de avisos: 0, erros: 0.
